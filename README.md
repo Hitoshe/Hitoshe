@@ -1,5 +1,5 @@
 ## 🏄 About Me
-- 🕹️ Developing games with **Unreal Engine**  
+- 🕹️ Developing games with **Unreal Engine** & web services on **Spring**
 - ⚙️ Working with **Java & C++**, and web technologies  
 - 🔍 Exploring **network systems** and advanced AI  
 
